@@ -12,13 +12,9 @@ C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.AssemblyInfoInputs.cach
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.AssemblyInfo.cs
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.csproj.CoreCompileInputs.cache
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.RazorAssemblyInfo.cache
-C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.RazorAssemblyInfo.cs
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\scopedcss\bundle\w3_asp.styles.css
-C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\scopedcss\projectbundle\w3_asp.bundle.scp.css
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.dll
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\refint\w3_asp.dll
 C:\Users\do1lo\assignment\w3_asp\obj\Debug\net6.0\w3_asp.pdb

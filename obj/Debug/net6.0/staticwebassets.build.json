@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aFGb6UeUvcuvJZ+5MANIKR0s31t1irCKQsLd23kEmOo=",
+  "Hash": "69QtruG8q8WO1a0YHkxSn7uzqPI2eLgrKQOdWTY4I8I=",
   "Source": "w3_asp",
   "BasePath": "_content/w3_asp",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\w3_asp.styles.css",
-      "SourceId": "w3_asp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/w3_asp",
-      "RelativePath": "w3_asp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\w3_asp.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\w3_asp.bundle.scp.css",
-      "SourceId": "w3_asp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/w3_asp",
-      "RelativePath": "w3_asp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\do1lo\\assignment\\w3_asp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\w3_asp.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\do1lo\\assignment\\w3_asp\\wwwroot\\css\\site.css",
       "SourceId": "w3_asp",
